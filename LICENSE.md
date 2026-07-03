@@ -1,4 +1,4 @@
-# 
+# Open Source Cline modèles. Avec interface conviviale et recherche sémantique — optimisé pour des performances et une efficacité maximales.
 
 
 
